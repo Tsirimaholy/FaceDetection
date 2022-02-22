@@ -1,6 +1,6 @@
+.vscode/
 .idea/
 .venv/
 coverage/
 face_detector_copy.py
 *jpg
-video*
